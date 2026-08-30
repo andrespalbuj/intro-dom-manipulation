@@ -2,7 +2,6 @@
 
 Recuerda, estos ejercicios se hacen con Live Server.
 Lee las instrucciones de cada ejercicio en el mismo fichero.
-Adjuntamos capturas de pantalla con la solución esperada para cada ejercicio.
 
 # Introducción a la manipulación del DOM con JavaScript
 
