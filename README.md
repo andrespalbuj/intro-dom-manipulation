@@ -3,6 +3,9 @@
 Recuerda, estos ejercicios se hacen con Live Server.
 Lee las instrucciones de cada ejercicio en el mismo fichero.
 
+1. [Resultado esperado para el ejercicio 1](resultado-esperado-ejercicio-1.png)
+2. [Resultado esperado para el ejercicio 2 - con audio](https://oscarm.tinytake.com/df/174205c/thumbnail?type=attachments&version_no=0&file_version_no=0&thumbnail_size=preview)
+
 # Introducción a la manipulación del DOM con JavaScript
 
 Hasta ahora hemos utilizado JavaScript para trabajar con **datos, variables, arrays, objetos, funciones y condiciones**.
