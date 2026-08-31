@@ -2,6 +2,7 @@
 
 Recuerda, estos ejercicios se hacen con Live Server.
 Todos los console.log los verás a través de la consola del navegador Web.
+**PREFERIBLAMENTE** no modifiques el HTML con nuevos atributos. La idea es usar adecuadamente querySelector en cada ejercicio.
 Lee las instrucciones de cada ejercicio en el mismo fichero.
 
 1. [Resultado esperado para el ejercicio 1](resultado-esperado-ejercicio-1.png)
