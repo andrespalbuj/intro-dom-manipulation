@@ -1,6 +1,7 @@
 # Consulta y manipulación del DOM
 
 Recuerda, estos ejercicios se hacen con Live Server.
+Todos los console.log los verás a través de la consola del navegador Web.
 Lee las instrucciones de cada ejercicio en el mismo fichero.
 
 1. [Resultado esperado para el ejercicio 1](resultado-esperado-ejercicio-1.png)
